@@ -1,8 +1,7 @@
-## Hi there 👋
 
-<!--<div align="center">
 
-Langa | Software Engineer 
+Fidel Langa |
+Software Engineer 
 Backend Engineering · System Design & Architecture · Web3 · Machine Learning
 Building beyond the interface — understanding the systems, data, and engineering decisions behind reliable software.
 GitHub
@@ -107,16 +106,4 @@ I'm interested in collaborating on meaningful backend, open-source, Web3, distri
 
 Learn deeply. Design deliberately. Build responsibly.
 </div>
-**Langa2007/Langa2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
