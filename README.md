@@ -42,28 +42,35 @@ Languages I'm Focusing On
   </div>
 </p>
 I'm deliberately building depth in four programming languages, each offering a different approach to software development and problem-solving. My focus is on understanding their underlying principles, strengths, trade-offs, and practical applications rather than simply learning their syntax.
-Language	My focus
-Go	My primary focus for backend engineering. Exploring HTTP services, REST APIs, concurrency, networking, system tooling, and building efficient, maintainable applications.
-Rust	Exploring systems programming, ownership, borrowing, memory safety, performance, and low-level control. Interested in understanding how Rust enforces safety without sacrificing performance.
-Python	Applying Python to scripting, automation, backend development, data processing, and machine learning. Particularly interested in PyTorch and integrating intelligent capabilities into software systems.
-Java	Deepening my understanding of object-oriented programming, application architecture, backend development, and JVM fundamentals. Exploring modern Java, from Java 21 through newer releases such as Java 25.
+Language	                                                     My focus
+Go	       My primary focus for backend engineering. Exploring HTTP services, REST APIs, concurrency, networking, system tooling, and building efficient, maintainable applications.
+
+Rust	     Exploring systems programming, ownership, borrowing, memory safety, performance, and low-level control. Interested in understanding how Rust enforces safety without sacrificing performance.
+
+Python  	 Applying Python to scripting, automation, backend development, data processing, and machine learning. Particularly interested in PyTorch and integrating intelligent capabilities into software            systems.
+
+Java	     Deepening my understanding of object-oriented programming, application architecture, backend development, and JVM fundamentals. Exploring modern Java, from Java 21 through newer releases such           as Java 25.
 
 My approach is to develop practical proficiency through independent learning, experimentation, and building real-world projects. Each language contributes a different perspective: Go for simplicity and concurrency, Rust for safety and control, Python for flexibility and data-driven applications, and Java for structured application development.
 
 Ultimately, I want to understand not only how to write code in these languages, but also why and when to use each one when engineering software systems.
-<h3>Frameworks & Technologies</h3>
+<h3><div align="center">Frameworks & Technologies</div></h3>
 
 <p>
+  <div align="center">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js"/>
+  </div>
 </p>
 I also work with or explore JavaScript and Node.js for application development and tooling. My goal is not to collect languages; it's to become proficient at choosing the right tool, understanding its strengths, and using it well.
 Backend, Data & Infrastructure
-<h3>Databases</h3>
+<h3><div align="center">Databases</div></h3>
 
 <p>
+  <div align="center"
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  </div>
 </p>
 Databases
 - PostgreSQL — relational design, SQL, constraints, transactions, indexing, and query performance.
