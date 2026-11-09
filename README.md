@@ -1,6 +1,7 @@
 
 
-Fidel Langa |
+                                          Fidel Langa 
+
 Software Engineer 
 Backend Engineering · System Design & Architecture · Web3 · Machine Learning
 Building beyond the interface — understanding the systems, data, and engineering decisions behind reliable software.
@@ -28,6 +29,16 @@ I want to be the kind of engineer who can do more than produce code quickly. I'm
 - Document decisions and communicate technical ideas clearly.
 My principle: speed is useful, but understanding, sound judgment, and responsibility are what make software engineering dependable.
 Languages I'm Focusing On
+<h3>Languages</h3>
+
+<p>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+</p>
 I'm deliberately building depth in four languages that offer different ways to reason about software. Java is part of my formal coursework, and I have some Python exposure through class. I plan to develop the other skills through independent study and hands-on projects.
 Language	My focus
 Go	My main independent-learning priority: backend services, HTTP APIs, concurrency, networking, tooling, and simple, maintainable systems.
