@@ -29,7 +29,7 @@ I want to be the kind of engineer who can do more than produce code quickly. I'm
 - Document decisions and communicate technical ideas clearly.
 My principle: speed is useful, but understanding, sound judgment, and responsibility are what make software engineering dependable.
 Languages I'm Focusing On
-<h3 center>Languages</h3>
+<h3><div align= "center">Languages</div></h3>
 
 <p>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
