@@ -29,7 +29,7 @@ I want to be the kind of engineer who can do more than produce code quickly. I'm
 - Document decisions and communicate technical ideas clearly.
 My principle: speed is useful, but understanding, sound judgment, and responsibility are what make software engineering dependable.
 Languages I'm Focusing On
-<h3>Languages</h3>
+<h3 center>Languages</h3>
 
 <p>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
@@ -46,9 +46,20 @@ Rust	Ownership, borrowing, memory safety, systems programming, and understanding
 Python	Scripting, automation, backend development, data work, and machine learning with PyTorch.
 Java	Coursework and OOP foundations, backend application structure, and JVM fundamentals. I'm familiar with the Java 21 baseline and interested in newer releases, including Java 25.
 
+<h3>Frameworks & Technologies</h3>
 
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js"/>
+</p>
 I also work with or explore JavaScript and Node.js for application development and tooling. My goal is not to collect languages; it's to become proficient at choosing the right tool, understanding its strengths, and using it well.
 Backend, Data & Infrastructure
+<h3>Databases</h3>
+
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+</p>
 Databases
 - PostgreSQL — relational design, SQL, constraints, transactions, indexing, and query performance.
 - MongoDB — document modelling and understanding when a NoSQL approach is appropriate.
