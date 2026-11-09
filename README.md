@@ -42,14 +42,15 @@ Languages I'm Focusing On
   </div>
 </p>
 I'm deliberately building depth in four programming languages, each offering a different approach to software development and problem-solving. My focus is on understanding their underlying principles, strengths, trade-offs, and practical applications rather than simply learning their syntax.
-Language	                                                     My focus
-Go	       My primary focus for backend engineering. Exploring HTTP services, REST APIs, concurrency, networking, system tooling, and building efficient, maintainable applications.
+	                                                     
 
-Rust	     Exploring systems programming, ownership, borrowing, memory safety, performance, and low-level control. Interested in understanding how Rust enforces safety without sacrificing performance.
+Go:        My primary focus for backend engineering. Exploring HTTP services, REST APIs, concurrency, networking, system tooling, and building efficient, maintainable applications.
 
-Python  	 Applying Python to scripting, automation, backend development, data processing, and machine learning. Particularly interested in PyTorch and integrating intelligent capabilities into software            systems.
+Rust:	     Exploring systems programming, ownership, borrowing, memory safety, performance, and low-level control. Interested in understanding how Rust enforces safety without sacrificing performance.
 
-Java	     Deepening my understanding of object-oriented programming, application architecture, backend development, and JVM fundamentals. Exploring modern Java, from Java 21 through newer releases such           as Java 25.
+Python:  	 Applying Python to scripting, automation, backend development, data processing, and machine learning. Particularly interested in PyTorch and integrating intelligent capabilities into software            systems.
+
+Java:	     Deepening my understanding of object-oriented programming, application architecture, backend development, and JVM fundamentals. Exploring modern Java, from Java 21 through newer releases such           as Java 25.
 
 My approach is to develop practical proficiency through independent learning, experimentation, and building real-world projects. Each language contributes a different perspective: Go for simplicity and concurrency, Rust for safety and control, Python for flexibility and data-driven applications, and Java for structured application development.
 
@@ -69,12 +70,10 @@ Backend, Data & Infrastructure
 <p>
   <div align="center"
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
   </div>
 </p>
 Databases
 - PostgreSQL — relational design, SQL, constraints, transactions, indexing, and query performance.
-- MongoDB — document modelling and understanding when a NoSQL approach is appropriate.
 - Advanced DBMS concepts, including data integrity, normalization, and database design.
 Backend & APIs
 - Node.js and Express
@@ -100,8 +99,7 @@ Areas I'm studying and exploring:
 - API contracts, modularity, separation of concerns, and design patterns
 - Scalability, availability, fault tolerance, consistency, and architectural trade-offs
 - Technical documentation and explaining design decisions
-I'm especially interested in connecting the diagrams and theory to working implementations, so that a design is useful beyond the classroom.
-Web3, Blockchain & Distributed Systems
+<h4 align="center">Web3, Blockchain & Distributed Systems</h4>
 I'm interested in the architecture behind decentralized applications and the systems that support them. Topics I want to explore further include:
 - Blockchain fundamentals and distributed consensus
 - Smart contracts and decentralized application architecture
@@ -110,7 +108,7 @@ I'm interested in the architecture behind decentralized applications and the sys
 - Distributed systems, state, and trust boundaries
 - The trade-offs between decentralization, performance, cost, and usability
 My aim is to understand the underlying mechanisms and engineering constraints—not just the surface-level application.
-Machine Learning & PyTorch
+<h5 align="center">Machine Learning & PyTorch</h5>
 I'm interested in machine learning as both a technical discipline and a capability that can be integrated into useful software. I'm planning to strengthen my Python foundations while learning:
 - Core ML concepts, model training, evaluation, and overfitting
 - Tensors, automatic differentiation, and neural-network fundamentals
@@ -125,15 +123,14 @@ I use projects to turn concepts into working systems and discover what I still n
 - Developer tools and automation
 - Web3 and blockchain experiments
 - Python-based data and machine-learning projects
-As projects mature, I'll add links, architecture notes, implementation details, and lessons learned here. I want my repositories to show not only what I built, but also why I designed it that way, what trade-offs I made, and what I learned.
-Currently Prioritizing
+<h6 align="center">Currently Prioritizing</h6>
 - Becoming more effective and independent with Go, especially for backend development.
 - Learning Rust and strengthening my understanding of systems and memory safety.
 - Improving Python for automation, backend work, and PyTorch.
 - Deepening my Java and object-oriented programming foundations through coursework and practice.
 - Applying advanced DBMS concepts in real projects with PostgreSQL and MongoDB.
 - Practising system design, UML, API design, testing, Linux, and Docker.
-Beyond Writing Code
+<h7 align="center">Beyond Writing Code</h7>
 I value curiosity, deliberate practice, clear technical communication, and learning how things work. I'm comfortable being a work in progress: the goal is to build sound fundamentals, make thoughtful engineering decisions, and steadily take on harder problems.
 I'm interested in collaborating on meaningful backend, open-source, Web3, distributed-systems, and machine-learning projects where I can contribute, learn, and improve.
 <div align="center">
