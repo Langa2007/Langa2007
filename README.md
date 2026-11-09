@@ -44,13 +44,13 @@ Languages I'm Focusing On
 I'm deliberately building depth in four programming languages, each offering a different approach to software development and problem-solving. My focus is on understanding their underlying principles, strengths, trade-offs, and practical applications rather than simply learning their syntax.
 	                                                     
 
-Go:        My primary focus for backend engineering. Exploring HTTP services, REST APIs, concurrency, networking, system tooling, and building efficient, maintainable applications.
+**Go:**        My primary focus for backend engineering. Exploring HTTP services, REST APIs, concurrency, networking, system tooling, and building efficient, maintainable applications.
 
-Rust:	     Exploring systems programming, ownership, borrowing, memory safety, performance, and low-level control. Interested in understanding how Rust enforces safety without sacrificing performance.
+**Rust:**	     Exploring systems programming, ownership, borrowing, memory safety, performance, and low-level control. Interested in understanding how Rust enforces safety without sacrificing        performance.
 
-Python:  	 Applying Python to scripting, automation, backend development, data processing, and machine learning. Particularly interested in PyTorch and integrating intelligent capabilities into software            systems.
+**Python:**  	 Applying Python to scripting, automation, backend development, data processing, and machine learning. Particularly interested in PyTorch and integrating intelligent capabilities into software            systems.
 
-Java:	     Deepening my understanding of object-oriented programming, application architecture, backend development, and JVM fundamentals. Exploring modern Java, from Java 21 through newer releases such           as Java 25.
+**Java:	**     Deepening my understanding of object-oriented programming, application architecture, backend development, and JVM fundamentals. Exploring modern Java, from Java 21 through newer releases such           as Java 25.
 
 My approach is to develop practical proficiency through independent learning, experimentation, and building real-world projects. Each language contributes a different perspective: Go for simplicity and concurrency, Rust for safety and control, Python for flexibility and data-driven applications, and Java for structured application development.
 
