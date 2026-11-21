@@ -54,9 +54,33 @@ My principle: speed is useful, but understanding, sound judgment, and responsibi
 
 <h3><div align= "center">Languages</div></h3>
 <!--START_SECTION:language-badges-->
+
 <p align="center">
-  <!-- Language badges are generated automatically from GitHub repository language data. -->
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PLpgSQL-555555?style=for-the-badge" alt="PLpgSQL" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" alt="CMake" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/GDScript-555555?style=for-the-badge" alt="GDScript" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
+  <img src="https://img.shields.io/badge/Cypher-555555?style=for-the-badge" alt="Cypher" />
+  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
+  <img src="https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Shell" />
+  <img src="https://img.shields.io/badge/Dockerfile-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Dockerfile" />
+  <img src="https://img.shields.io/badge/Just-555555?style=for-the-badge" alt="Just" />
+  <img src="https://img.shields.io/badge/Objective-C-555555?style=for-the-badge" alt="Objective-C" />
 </p>
+
 <!--END_SECTION:language-badges-->
 I'm deliberately building depth in four programming languages, each offering a different approach to software development and problem-solving. My focus is on understanding their underlying principles, strengths, trade-offs, and practical applications rather than simply learning their syntax.
 
@@ -236,55 +260,33 @@ I'm interested in collaborating on meaningful backend, open-source, Web3, distri
 
 <h2 align="center">Most Used Languages</h2>
 <!--START_SECTION:languages-->
+
 | Language | Percentage | Distribution |
-
 |:---|---:|:---|
-
-| **JavaScript** | 45.81% | `██████████████░░░░░░░░░░░░░░░░` |
-
-| **Java** | 16.72% | `█████░░░░░░░░░░░░░░░░░░░░░░░░░` |
-
-| **Go** | 9.40% | `███░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
-
-| **TypeScript** | 8.01% | `██░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
-
-| **Vue** | 5.70% | `██░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
-
-| **Python** | 3.84% | `█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
-
-| **PLpgSQL** | 3.71% | `█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
-
-| **Dart** | 2.38% | `█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
-
-| **CSS** | 1.88% | `█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
-
-| **C++** | 0.55% | `░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
-
-| **HTML** | 0.55% | `░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
-
-| **Kotlin** | 0.43% | `░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
-
-| **CMake** | 0.38% | `░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
-
-| **Rust** | 0.23% | `░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
-
-| **GDScript** | 0.22% | `░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
-
+| **JavaScript** | 45.68% | `██████████████░░░░░░░░░░░░░░░░` |
+| **Java** | 14.98% | `████░░░░░░░░░░░░░░░░░░░░░░░░░░` |
+| **TypeScript** | 11.28% | `███░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
+| **Go** | 9.03% | `███░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
+| **Vue** | 5.10% | `██░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
+| **Python** | 3.85% | `█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
+| **PLpgSQL** | 3.42% | `█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
+| **Dart** | 2.13% | `█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
+| **CSS** | 2.02% | `█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
+| **HTML** | 0.62% | `░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
+| **C++** | 0.50% | `░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
+| **Kotlin** | 0.39% | `░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
+| **CMake** | 0.34% | `░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
+| **Rust** | 0.29% | `░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
+| **GDScript** | 0.20% | `░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
 | **PowerShell** | 0.04% | `░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
-
 | **Cypher** | 0.03% | `░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
-
 | **Swift** | 0.03% | `░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
-
 | **C** | 0.03% | `░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
-
 | **Shell** | 0.02% | `░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
-
 | **Dockerfile** | 0.02% | `░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
-
 | **Just** | 0.01% | `░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
-
 | **Objective-C** | 0.00% | `░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
+
 <!--END_SECTION:languages-->
 Learn deeply. Design deliberately. Build responsibly.
 
