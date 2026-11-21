@@ -2,10 +2,8 @@
 name: Update Language Statistics
 
 on:
-  # Run whenever you push to the profile repository
-  push:
-    branches:
-      - main
+  # Refresh after every push to the profile repository
+  push: {}
 
   # Allow other repositories to trigger an update
   repository_dispatch:

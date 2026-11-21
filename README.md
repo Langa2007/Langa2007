@@ -183,16 +183,37 @@ I value curiosity, deliberate practice, clear technical communication, and learn
 
 I'm interested in collaborating on meaningful backend, open-source, Web3, distributed-systems, and machine-learning projects where I can contribute, learn, and improve.
 
-<div align="center">
-
 <h2 align="center">Most Used Languages</h2>
 
-<div align="center">
-
 <!--START_SECTION:languages-->
-<!--END_SECTION:languages-->
 
-</div>
+| Language | Percentage | Distribution |
+|:---|---:|:---|
+| **JavaScript** | 45.81% | `██████████████░░░░░░░░░░░░░░░░` |
+| **Java** | 16.72% | `█████░░░░░░░░░░░░░░░░░░░░░░░░░` |
+| **Go** | 9.40% | `███░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
+| **TypeScript** | 8.01% | `██░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
+| **Vue** | 5.70% | `██░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
+| **Python** | 3.84% | `█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
+| **PLpgSQL** | 3.71% | `█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
+| **Dart** | 2.38% | `█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
+| **CSS** | 1.88% | `█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
+| **C++** | 0.55% | `░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
+| **HTML** | 0.55% | `░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
+| **Kotlin** | 0.43% | `░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
+| **CMake** | 0.38% | `░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
+| **Rust** | 0.23% | `░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
+| **GDScript** | 0.22% | `░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
+| **PowerShell** | 0.04% | `░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
+| **Cypher** | 0.03% | `░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
+| **Swift** | 0.03% | `░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
+| **C** | 0.03% | `░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
+| **Shell** | 0.02% | `░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
+| **Dockerfile** | 0.02% | `░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
+| **Just** | 0.01% | `░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
+| **Objective-C** | 0.00% | `░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
+
+<!--END_SECTION:languages-->
 
 Learn deeply. Design deliberately. Build responsibly.
 </div>
