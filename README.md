@@ -188,7 +188,10 @@ I'm interested in collaborating on meaningful backend, open-source, Web3, distri
 <h2 align="center">Most Used Languages</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Langa2007&layout=compact&langs_count=10&theme=transparent&hide_border=true" alt="Most Used Languages"/>
+
+<!--START_SECTION:languages-->
+<!--END_SECTION:languages-->
+
 </div>
 
 Learn deeply. Design deliberately. Build responsibly.
