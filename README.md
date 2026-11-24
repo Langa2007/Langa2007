@@ -58,6 +58,7 @@ My principle: speed is useful, but understanding, sound judgment, and responsibi
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Solidity-555555?style=for-the-badge" alt="Solidity" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue" />
@@ -263,22 +264,23 @@ I'm interested in collaborating on meaningful backend, open-source, Web3, distri
 
 | Language | Percentage | Distribution |
 |:---|---:|:---|
-| **JavaScript** | 43.81% | `█████████████░░░░░░░░░░░░░░░░░` |
-| **Java** | 14.26% | `████░░░░░░░░░░░░░░░░░░░░░░░░░░` |
-| **Go** | 9.55% | `███░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
-| **Python** | 8.74% | `███░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
-| **Vue** | 6.98% | `██░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
-| **TypeScript** | 6.83% | `██░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
-| **PLpgSQL** | 3.25% | `█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
-| **Dart** | 2.03% | `█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
-| **CSS** | 1.91% | `█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
-| **HTML** | 0.60% | `░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
-| **Rust** | 0.49% | `░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
-| **C++** | 0.47% | `░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
-| **Kotlin** | 0.37% | `░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
-| **CMake** | 0.32% | `░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
-| **GDScript** | 0.19% | `░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
-| **PowerShell** | 0.04% | `░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
+| **JavaScript** | 39.65% | `████████████░░░░░░░░░░░░░░░░░░` |
+| **Java** | 12.90% | `████░░░░░░░░░░░░░░░░░░░░░░░░░░` |
+| **Solidity** | 9.31% | `███░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
+| **Go** | 8.65% | `███░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
+| **Python** | 8.09% | `██░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
+| **Vue** | 6.32% | `██░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
+| **TypeScript** | 6.18% | `██░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
+| **PLpgSQL** | 2.95% | `█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
+| **Dart** | 1.83% | `█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
+| **CSS** | 1.73% | `█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
+| **HTML** | 0.54% | `░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
+| **Rust** | 0.44% | `░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
+| **C++** | 0.43% | `░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
+| **Kotlin** | 0.34% | `░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
+| **CMake** | 0.29% | `░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
+| **GDScript** | 0.17% | `░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
+| **PowerShell** | 0.03% | `░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
 | **Cypher** | 0.03% | `░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
 | **Dockerfile** | 0.03% | `░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
 | **Swift** | 0.03% | `░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
