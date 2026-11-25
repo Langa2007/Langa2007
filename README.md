@@ -65,21 +65,21 @@ My principle: speed is useful, but understanding, sound judgment, and responsibi
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/PLpgSQL-555555?style=for-the-badge" alt="PLpgSQL" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Shell" />
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
   <img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" alt="CMake" />
   <img src="https://img.shields.io/badge/GDScript-555555?style=for-the-badge" alt="GDScript" />
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
-  <img src="https://img.shields.io/badge/Cypher-555555?style=for-the-badge" alt="Cypher" />
   <img src="https://img.shields.io/badge/Dockerfile-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Dockerfile" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
+  <img src="https://img.shields.io/badge/Makefile-555555?style=for-the-badge" alt="Makefile" />
+  <img src="https://img.shields.io/badge/Cypher-555555?style=for-the-badge" alt="Cypher" />
   <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />
   <img src="https://img.shields.io/badge/Just-555555?style=for-the-badge" alt="Just" />
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
-  <img src="https://img.shields.io/badge/Makefile-555555?style=for-the-badge" alt="Makefile" />
   <img src="https://img.shields.io/badge/Objective-C-555555?style=for-the-badge" alt="Objective-C" />
 </p>
 
@@ -265,30 +265,30 @@ I'm interested in collaborating on meaningful backend, open-source, Web3, distri
 
 | Language | Percentage | Distribution |
 |:---|---:|:---|
-| **JavaScript** | 39.47% | `████████████░░░░░░░░░░░░░░░░░░` |
-| **Java** | 12.84% | `████░░░░░░░░░░░░░░░░░░░░░░░░░░` |
-| **Solidity** | 9.27% | `███░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
-| **Go** | 8.61% | `███░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
-| **Python** | 8.13% | `██░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
-| **Vue** | 6.29% | `██░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
-| **TypeScript** | 6.15% | `██░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
-| **PLpgSQL** | 2.93% | `█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
-| **Dart** | 1.82% | `█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
-| **CSS** | 1.72% | `█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
-| **HTML** | 0.54% | `░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
-| **Rust** | 0.44% | `░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
-| **C++** | 0.43% | `░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
-| **Shell** | 0.40% | `░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
+| **JavaScript** | 38.66% | `████████████░░░░░░░░░░░░░░░░░░` |
+| **Java** | 12.57% | `████░░░░░░░░░░░░░░░░░░░░░░░░░░` |
+| **Solidity** | 9.07% | `███░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
+| **Go** | 8.88% | `███░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
+| **Python** | 8.16% | `██░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
+| **Vue** | 6.22% | `██░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
+| **TypeScript** | 6.03% | `██░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
+| **PLpgSQL** | 2.87% | `█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
+| **Dart** | 1.79% | `█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
+| **Rust** | 1.75% | `█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
+| **CSS** | 1.69% | `█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
+| **HTML** | 0.53% | `░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
+| **C++** | 0.42% | `░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
+| **Shell** | 0.39% | `░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
 | **Kotlin** | 0.33% | `░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
 | **CMake** | 0.29% | `░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
 | **GDScript** | 0.17% | `░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
-| **PowerShell** | 0.03% | `░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
-| **Cypher** | 0.03% | `░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
 | **Dockerfile** | 0.03% | `░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
+| **PowerShell** | 0.03% | `░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
+| **Makefile** | 0.03% | `░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
+| **Cypher** | 0.03% | `░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
 | **Swift** | 0.03% | `░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
 | **Just** | 0.02% | `░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
 | **C** | 0.02% | `░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
-| **Makefile** | 0.01% | `░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
 | **Objective-C** | 0.00% | `░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
 
 <!--END_SECTION:languages-->
